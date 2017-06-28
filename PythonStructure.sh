@@ -1,4 +1,4 @@
-#
+#!/usr/bin/env bash
 # Script: PythonStructure.sh
 # Objective: create structure for python applications.
 # Args: ./PythonStructure.sh NameApp
